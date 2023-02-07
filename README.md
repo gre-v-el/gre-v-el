@@ -22,6 +22,8 @@ Hi! I'm Gabriel! I love programming! I learn since 2016 and I never stop. Whenev
   <span style="font-weight: bold;">ąh#6133</span>
 </a>
 
+<br/>
+
 <a href="mailto:myszkier.gabriel@gmail.com">
   <img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" width="20"/>
   &nbsp;&nbsp;&nbsp;
