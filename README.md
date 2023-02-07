@@ -1,21 +1,13 @@
 # Gabriel Myszkier
 ### Computer Science IB Student
 
-## Current Projects
-* [RayMarching Editor](https://github.com/gre-v-el/RayMarching-Editor) 
-
-## Technologies in use:
-* java and javafx
+## Technologies:
+* Java with JavaFX
 * python
-* web
-  * html
-  * css
-  * js
-  * three.js
-  * glsl
-* modelling
-  * blender and python
+* js with three.js + glsl
+* blender with python
 * unity and C#
+* Rust with wgpu and wgsl
 
 
 ## Contact me:
