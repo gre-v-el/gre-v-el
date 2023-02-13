@@ -1,5 +1,5 @@
 # Gabriel Myszkier
-### A Computer Science IB Student
+### Computer Science IB Student
 
 ---
 
@@ -16,10 +16,10 @@ Hi! I'm Gabriel! I love programming! I learn since 2016 and I never stop. Whenev
 
 
 ## Contact me:
-<a href="https://discordapp.com/channels/@me/ąh#6133/">
+<a href="https://discordapp.com/channels/@me/gremble#6133/">
   <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20"/>
   &nbsp;&nbsp;&nbsp;
-  <span style="font-weight: bold;">ąh#6133</span>
+  <span style="font-weight: bold;">gremble#6133</span>
 </a>
 
 <br/>
