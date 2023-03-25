@@ -3,7 +3,9 @@
 
 ---
 
-Hi! I'm Gabriel! I love programming! I learn since 2016 and I never stop. Whenever I get interested in a new programming language or technology, I learn it. My latest programming expedition is all about GPU programming in Rust. If you would like to contact me, feel free to send me an email or a message on discord!
+Hi! I'm Gabriel and programming is my passion! I learn since 2016 and I never stop. My latest programming expedition is all about GPU programming in Rust. If you would like to contact me, feel free to send me an email or a message on discord!
+
+I am particularly interested with simulating big systems and optimizing software.
 
 
 ## Technologies:
@@ -11,8 +13,8 @@ Hi! I'm Gabriel! I love programming! I learn since 2016 and I never stop. Whenev
 * python
 * js with three.js + glsl
 * blender with python
-* unity and C#
-* Rust with wgpu and wgsl
+* C# and Unity
+* Rust with macroquad, or wgpu and wgsl + egui 
 
 
 ## Contact me:
