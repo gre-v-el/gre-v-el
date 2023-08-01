@@ -1,5 +1,6 @@
 # Gabriel Myszkier
-### Computer Science IB Student
+### Computer Science IB Graduate
+### Computer Science Student at Gdańsk University of Technology
 
 ---
 
@@ -14,7 +15,8 @@ I am particularly interested with simulating big systems and optimizing software
 * js with three.js + glsl
 * blender with python
 * C# and Unity
-* Rust with macroquad, or wgpu and wgsl + egui 
+* Rust with macroquad, or wgpu and wgsl + egui
+* Flutter + Flame
 
 
 ## Contact me:
