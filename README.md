@@ -4,19 +4,20 @@
 
 ---
 
-Hi! I'm Gabriel and programming is my passion! I learn since 2016 and I never stop. When something interests me, I learn fast. My latest programming expedition is all about GPU programming in Rust. If you would like to contact me, feel free to send me an email or a message on discord!
+Hi! I'm Gabriel and programming is my passion! I've been learning since 2016 and I never stop. When something interests me, I learn fast. Currently I'm exploring Rust and GPU programming. If you would like to contact me, feel free to send me an email or a message on discord!
 
 I am particularly interested with simulating big systems and optimizing software.
 
 
 ## Technologies:
-* Java with JavaFX
-* python
-* js with three.js + glsl
-* blender with python
-* C# and Unity
 * Rust with macroquad, or wgpu and wgsl + egui
+* Java with JavaFX
+* js with three.js + glsl
+* Godot and gdscript
 * Flutter + Flame
+* C# and Unity
+* blender with python
+* python
 
 
 ## Contact me:
