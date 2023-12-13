@@ -19,7 +19,7 @@ I am particularly interested with simulating big systems and optimizing software
 * blender with python
 * python
 
-I am also on [itch.io](https://grem-ble.itch.io).
+I am also on [itch.io](https://grem-ble.itch.io) and [Play Store](https://play.google.com/store/apps/developer?id=gremble)
 
 ## Contact me:
 <a href="https://discordapp.com/channels/@me/gremble#6133/">
