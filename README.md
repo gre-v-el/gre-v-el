@@ -1,34 +1,20 @@
 # Gabriel Myszkier
-### Computer Science IB Graduate
-### Computer Science Student at Gdańsk University of Technology
+## Computer Science IB Graduate
+## Computer Science Student at Gdańsk University of Technology
 
 ---
 
-Hi! I'm Gabriel and programming is my passion! I've been learning since 2016 and I never stop. When something interests me, I learn fast. Currently I'm exploring Rust and GPU programming. If you would like to contact me, feel free to send me an email or a message on discord!
+I'm Gabriel and programming is my passion. I started coding as a hobby when I was 12 years old and I have never stopped since then. I particularly enjoy working with low-level languages and focusing on performance. I understand that a language is only a tool, so not all my projects are written in low level languages. When a need arises, I am able to learn a new technology and use it to solve the problem at hand.
 
-I am particularly interested with simulating big systems and optimizing software.
+### Things I know:
+[gre-v-el.github.io/portfolio](https://gre-v-el.github.io/portfolio/)
 
+### My projects:
+[gre-v-el.github.io/portfolio/projects](https://gre-v-el.github.io/portfolio/projects)
 
-## Technologies:
-* Rust with macroquad, or wgpu and wgsl + egui
-* Java with JavaFX
-* js with three.js + glsl
-* Godot and gdscript
-* Flutter + Flame
-* C# and Unity
-* blender with python
-* python
+### Contact:
+[gre-v-el.github.io/portfolio/contact](https://gre-v-el.github.io/portfolio/links)
 
-I am also on [itch.io](https://grem-ble.itch.io) and [Play Store](https://play.google.com/store/apps/developer?id=gremble)
-
-## Contact me:
-<a href="https://discordapp.com/channels/@me/gremble#6133/">
-  <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20"/>
-  &nbsp;&nbsp;&nbsp;
-  <span style="font-weight: bold;">gremble#6133</span>
-</a>
-
-<br/>
 
 <a href="mailto:myszkier.gabriel@gmail.com">
   <img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" width="20"/>
